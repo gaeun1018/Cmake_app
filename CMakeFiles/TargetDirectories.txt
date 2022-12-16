@@ -1,3 +1,0 @@
-/Users/gaeunkim/AndroidStudioProjects/Cmake_app/CMakeFiles/cmake_app.dir
-/Users/gaeunkim/AndroidStudioProjects/Cmake_app/CMakeFiles/edit_cache.dir
-/Users/gaeunkim/AndroidStudioProjects/Cmake_app/CMakeFiles/rebuild_cache.dir
