@@ -1,0 +1,4 @@
+/Users/gaeunkim/Library/Android/sdk/cmake/3.18.1/bin/ninja \
+  -C \
+  /Users/gaeunkim/AndroidStudioProjects/Cmake_app/opencv/.cxx/Debug/1f1ty334/x86_64 \
+  opencv_jni_shared

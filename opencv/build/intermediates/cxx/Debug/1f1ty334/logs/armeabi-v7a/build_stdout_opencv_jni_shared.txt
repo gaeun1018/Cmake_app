@@ -1,0 +1,2 @@
+ninja: Entering directory `/Users/gaeunkim/AndroidStudioProjects/Cmake_app/opencv/.cxx/Debug/1f1ty334/armeabi-v7a'
+ninja: no work to do.
